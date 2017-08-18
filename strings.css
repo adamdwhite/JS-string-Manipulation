@@ -1,0 +1,10 @@
+body {
+    font-family: Raleway;
+}
+
+#submit {
+    font-family: Raleway;
+    font-size: 1em;
+    background-color: lightcoral;
+    border-radius: 2px;
+}
